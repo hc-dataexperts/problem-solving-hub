@@ -32,7 +32,7 @@ To keep this repo clean and consistent (Subject to change in future):
    - At least **1 reviewer approval** needed before merging.  
 
 5. **Do Not Copy**  
-   - Write your **own solutions**. Avoid pasting from discussions/solutions directly.  
+   - Write your **own solutions**. Avoid pasting from discussions/solutions directly. Also, try to add a .txt file for your solutions explaining how you solved the problem.
 
 ---
 
