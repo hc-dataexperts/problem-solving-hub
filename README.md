@@ -19,6 +19,7 @@ To keep this repo clean and consistent (Subject to change in future):
 3. **Code Style**  
    - Add a short comment at the top with:
      ```text
+     Autho: <Your Name>
      Problem: <Problem Title>
      Platform: <HackerRank/LeetCode>
      Language: <Python/Java/C++/...>
